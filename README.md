@@ -1,1 +1,1 @@
-Example scripts of bypassing aslr on linux, one using pwntools and one without using pwntools
+Example scripts of bypassing aslr on linux, one using pwntools and one without using pwntools, binary not included
